@@ -1,0 +1,19 @@
+Bonjour,
+Une demande de vente d'un produit a été envoyée par .
+Veuillez trouver ci-dessous les détails de la demande :
+
+Catégorie : 
+Produit : 
+Prix d’achat : 
+Prix de vente : 
+Quantité disponible en stock : 
+Quantité vendue : 
+Bénéfice estimé : 
+
+Nous vous prions de bien vouloir approuver ou rejeter cette demande. En cas d'approbation, elle sera ensuite transmise au Directeur financier pour validation finale.
+
+Merci de votre réactivité et de votre collaboration.
+
+Cordialement,
+L'équipe des ventes
+Logo/Nom de la société
